@@ -1,0 +1,10 @@
+﻿  Source.cpp
+E:\pr\6.1\6.1\Array.h(17,7): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+E:\pr\6.1\6.1\Array.h(18,7): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+E:\pr\6.1\6.1\Array.h(19,7): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+E:\pr\6.1\6.1\Array.h(20,7): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+E:\pr\6.1\6.1\Array.h(35,18): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+E:\pr\6.1\6.1\Array.h(38,47): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+E:\pr\6.1\6.1\Array.h(39,59): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+E:\pr\6.1\6.1\Array.h(56,36): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  6.1.vcxproj -> E:\pr\6.1\Debug\6.1.exe
